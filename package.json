@@ -1,0 +1,22 @@
+{
+  "name": "howmuchwhatday",
+  "version": "1.0.0",
+  "description": "Find out how much money worth a day",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "exchange"
+  ],
+  "author": "Arun Shrestha",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta3",
+    "request": "^2.72.0"
+  }
+}
